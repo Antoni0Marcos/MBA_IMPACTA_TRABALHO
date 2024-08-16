@@ -21,7 +21,6 @@
    21  git status
    22  git commit -m "first commit"
    23  git branch -M main
-   24  git remote add origin https://github.com/nenonidas/MBA_IMPACTA.git
-   25  git push -u origin main
-   26  git add README.md
-   27  history
+   24  git push -u origin main
+   25  git add README.md
+   26  history
